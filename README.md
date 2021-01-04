@@ -125,15 +125,19 @@ https://www.algoexpert.io/questions/Airport%20Connections
 ## Day 43  : January 3, 2021
 - https://www.algoexpert.io/questions/Max%20Path%20Sum%20In%20Binary%20Tree
 - https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
-- https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/
 
 ## Day 44  : January 4, 2021
-- https://leetcode.com/problems/path-sum-iii/
+- https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
+- https://leetcode.com/problems/validate-binary-search-tree/
+
 - https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
 - https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/
 - https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/
-- https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
-- https://leetcode.com/problems/validate-binary-search-tree/
+
+
+
+- https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/
+- https://leetcode.com/problems/path-sum-iii/
 
 ## Day 45  : January 5, 2021
 ## Day 46  : January 6, 2021
