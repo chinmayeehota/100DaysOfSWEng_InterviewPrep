@@ -1,1 +1,3 @@
 - Backtracking
+- Memoization
+- Dynamic Programming
