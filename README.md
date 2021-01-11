@@ -154,6 +154,13 @@ https://www.algoexpert.io/questions/Airport%20Connections
 - https://leetcode.com/problems/flatten-binary-tree-to-linked-list/ (To Revisit)
 
 ## Day 50  : January 10, 2021
+- https://leetcode.com/problems/valid-parentheses/
+  (Same as https://www.algoexpert.io/questions/Balanced%20Brackets)
+
+-
+- https://leetcode.com/problems/course-schedule/
+- 
+
 ## Day 51  : January 11, 2021
 ## Day 52  : January 12, 2021
 ## Day 53  : January 13, 2021
