@@ -157,16 +157,22 @@ https://www.algoexpert.io/questions/Airport%20Connections
 - https://leetcode.com/problems/valid-parentheses/
   (Same as https://www.algoexpert.io/questions/Balanced%20Brackets)
 
--
-- https://leetcode.com/problems/course-schedule/
-- 
-
 ## Day 51  : January 11, 2021
+- https://leetcode.com/problems/course-schedule/
+
 ## Day 52  : January 12, 2021
+
 ## Day 53  : January 13, 2021
+
 ## Day 54  : January 14, 2021
+
 ## Day 55  : January 15, 2021
+
 ## Day 56  : January 16, 2021
+- https://leetcode.com/problems/reconstruct-itinerary/
+-
+- https://www.algoexpert.io/questions/Airport%20Connections
+
 ## Day 57  : January 17, 2021
 ## Day 58  : January 18, 2021
 ## Day 59  : January 19, 2021

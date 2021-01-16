@@ -1,0 +1,4 @@
+Graph
+	- The way you solve would depend on the way you have designed your graph
+	- Below are some of the methods of designing a graph:
+		
