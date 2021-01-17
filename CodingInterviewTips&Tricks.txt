@@ -1,4 +1,12 @@
 Graph
 	- The way you solve would depend on the way you have designed your graph
 	- Below are some of the methods of designing a graph:
+		1). Adjacency List
+		2). Adjacency Matrix
+		3). Hashmap of Hashmap
+
+Linked List
+	- Adding a dummy node at the head and /or tail might help to handle many edge cases where operations have to be performed at the head or the tail.
+	
+	- Linked lists problems share similarities with array problems. Think about how you would solve an array problem and apply it to a linked list.
 		
