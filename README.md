@@ -183,18 +183,21 @@ https://www.algoexpert.io/questions/Airport%20Connections
 - https://leetcode.com/problems/network-delay-time/
 
 ## Day 59  : January 19, 2021
-- https://leetcode.com/problems/linked-list-cycle/
 - https://leetcode.com/problems/flower-planting-with-no-adjacent/
-- https://leetcode.com/problems/merge-k-sorted-lists/
-- https://leetcode.com/problems/copy-list-with-random-pointer/
-- https://leetcode.com/problems/design-hashset/
-- https://leetcode.com/problems/design-hashmap/
 
 ## Day 60  : January 20, 2021
+-
+- https://leetcode.com/problems/design-hashset/
+-
+- https://leetcode.com/problems/linked-list-cycle/
+- https://leetcode.com/problems/merge-k-sorted-lists/
+- https://leetcode.com/problems/copy-list-with-random-pointer/
+- https://leetcode.com/problems/design-hashmap/
+
+## Day 61  : January 21, 2021
 - https://www.algoexpert.io/questions/Airport%20Connections
 (Same as https://leetcode.com/problems/reconstruct-itinerary/)
 
-## Day 61  : January 21, 2021
 ## Day 62  : January 22, 2021
 ## Day 63  : January 23, 2021
 ## Day 64  : January 24, 2021
