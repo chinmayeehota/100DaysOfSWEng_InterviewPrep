@@ -1,6 +1,11 @@
+- Sorting Algorithms
+	- Insertion Sort
+	- Merge Sort
+	- Heap Sort
 - Backtracking
 - Memoization
 - Dynamic Programming
+	- Grid Reduction
 - Graph
 	- BFS
 	- DFS

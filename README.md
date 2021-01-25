@@ -186,21 +186,39 @@ https://www.algoexpert.io/questions/Airport%20Connections
 - https://leetcode.com/problems/flower-planting-with-no-adjacent/
 
 ## Day 60  : January 20, 2021
--
+
+
+## Day 61  : January 21, 2021
+- https://www.algoexpert.io/questions/Minimum%20Waiting%20Time
+
+## Day 62  : January 22, 2021
+
+- https://www.algoexpert.io/questions/Airport%20Connections
+(Same as https://leetcode.com/problems/reconstruct-itinerary/)
 - https://leetcode.com/problems/design-hashset/
 -
+- https://www.algoexpert.io/questions/Longest%20String%20Chain
+- 
+- https://leetcode.com/problems/design-hashmap/
 - https://leetcode.com/problems/linked-list-cycle/
 - https://leetcode.com/problems/merge-k-sorted-lists/
 - https://leetcode.com/problems/copy-list-with-random-pointer/
-- https://leetcode.com/problems/design-hashmap/
 
-## Day 61  : January 21, 2021
-- https://www.algoexpert.io/questions/Airport%20Connections
-(Same as https://leetcode.com/problems/reconstruct-itinerary/)
-
-## Day 62  : January 22, 2021
 ## Day 63  : January 23, 2021
+- https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
+- https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
+- https://www.algoexpert.io/questions/Phone%20Number%20Mnemonics
+
+- To Revisit
+- https://www.algoexpert.io/questions/Lowest%20Common%20Manager
+
+
 ## Day 64  : January 24, 2021
+- https://leetcode.com/problems/unique-paths/
+- https://leetcode.com/problems/minimum-path-sum/
+- https://leetcode.com/problems/triangle/
+- https://leetcode.com/problems/longest-common-subsequence/
+
 ## Day 65  : January 25, 2021
 ## Day 66  : January 26, 2021
 ## Day 67  : January 27, 2021
