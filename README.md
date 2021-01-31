@@ -212,20 +212,30 @@ https://www.algoexpert.io/questions/Airport%20Connections
 - To Revisit
 - https://www.algoexpert.io/questions/Lowest%20Common%20Manager
 
-
 ## Day 64  : January 24, 2021
 - https://leetcode.com/problems/unique-paths/
 - https://leetcode.com/problems/minimum-path-sum/
+
+## Day 65  : January 25, 2021
 - https://leetcode.com/problems/triangle/
 - https://leetcode.com/problems/longest-common-subsequence/
 
-## Day 65  : January 25, 2021
 ## Day 66  : January 26, 2021
 ## Day 67  : January 27, 2021
 ## Day 68  : January 28, 2021
 ## Day 69  : January 29, 2021
 ## Day 70  : January 30, 2021
+- https://leetcode.com/problems/coin-change/
+- https://leetcode.com/problems/longest-palindromic-subsequence/
+- https://leetcode.com/problems/wildcard-matching/
+- https://leetcode.com/problems/regular-expression-matching/
+- https://leetcode.com/problems/edit-distance/
+- https://leetcode.com/problems/longest-common-subsequence/
+- https://leetcode.com/problems/triangle/
+
 ## Day 71  : January 31, 2021
+- 
+
 ## Day 72  : February 1, 2021
 ## Day 73  : February 2, 2021
 ## Day 74  : February 3, 2021

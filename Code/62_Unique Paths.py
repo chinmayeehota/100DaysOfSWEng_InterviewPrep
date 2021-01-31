@@ -20,7 +20,7 @@ class Solution:
         return traverse(m, n, row=0, col=0)
 
 '''
-Approach - Memoization
+Approach - Top Down - Memoization
 1). 
 
 Time - 
@@ -28,24 +28,24 @@ Space -
 '''
 class Solution:
     def uniquePaths(self, m: int, n: int) -> int:
+        pathSum = [[-1] * n] * m
         def traverse(m , n, row, col):
-            if row >= m:
+            if row > m:
                 return 0
-            if col >= n:
+            if col > n:
                 return 0
             if row == m-1:
                 return 1
             if col == n-1:
                 return 1
-            pathSum = [[-1] * n] * m
             if pathSum[row][col] == -1:
                 pathSum[row][col] = traverse(m, n, row+1, col) + traverse(m, n, row, col+1)
             return pathSum[row][col]
+            
         return traverse(m, n, row=0, col=0)
 
 '''
-Approach - Top Down Dynamic Programming
-1). 
+Approach - Bottom Down Dynamic Programming
 
 Time - 
 Space - 
