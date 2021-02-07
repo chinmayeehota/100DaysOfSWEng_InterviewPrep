@@ -1,2 +1,15 @@
 - https://leetcode.com/problems/lfu-cache/
 - 
+
+- https://leetcode.com/problems/implement-queue-using-stacks/
+-
+- https://leetcode.com/problems/move-zeroes/
+- https://leetcode.com/problems/triangle/
+- 
+- https://leetcode.com/problems/longest-common-subsequence/
+- https://leetcode.com/problems/coin-change/
+- https://leetcode.com/problems/longest-palindromic-subsequence/
+- https://leetcode.com/problems/wildcard-matching/
+- https://leetcode.com/problems/regular-expression-matching/
+- https://leetcode.com/problems/edit-distance/
+- To Implement Merge Sort
