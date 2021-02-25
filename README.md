@@ -265,16 +265,31 @@ https://www.algoexpert.io/questions/Airport%20Connections
 ## Day 90  : February 19, 2021
 ## Day 91  : February 20, 2021
 - https://leetcode.com/problems/valid-palindrome/
--
-- https://www.algoexpert.io/questions/Longest%20Common%20Subsequence
-- 
-- https://leetcode.com/problems/longest-palindromic-substring/
 
 ## Day 92  : February 21, 2021
+- 
+- https://leetcode.com/problems/time-based-key-value-store/
+- https://leetcode.com/problems/design-hashmap/
+- https://leetcode.com/problems/design-hashset/
+
 ## Day 93  : February 22, 2021
+- https://www.algoexpert.io/questions/Longest%20Common%20Subsequence
+- https://leetcode.com/problems/longest-palindromic-substring/
+- https://leetcode.com/problems/find-median-from-data-stream/
+
 ## Day 94  : February 23, 2021
+- https://leetcode.com/problems/single-number/
+
 ## Day 95  : February 24, 2021
+- https://leetcode.com/problems/valid-sudoku/
+
 ## Day 96  : February 25, 2021
+- 
+- https://leetcode.com/problems/two-sum/
+- https://leetcode.com/problems/3sum/
+- https://leetcode.com/problems/4sum/
+- https://leetcode.com/problems/sudoku-solver/
+
 ## Day 97  : February 26, 2021
 ## Day 98  : February 27, 2021
 ## Day 99  : February 28, 2021
