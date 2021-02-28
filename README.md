@@ -290,12 +290,18 @@ https://www.algoexpert.io/questions/Airport%20Connections
 - https://leetcode.com/problems/count-primes/
 
 ## Day 98  : February 27, 2021
-- 
+- https://leetcode.com/problems/binary-tree-inorder-traversal/
+- https://leetcode.com/problems/binary-tree-preorder-traversal/
+- https://leetcode.com/problems/binary-tree-postorder-traversal/
 - https://leetcode.com/problems/balanced-binary-tree/
+- https://leetcode.com/problems/implement-trie-prefix-tree/
+
+## Day 99  : February 28, 2021
 - 
+- https://leetcode.com/problems/n-ary-tree-postorder-traversal/
+- https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/
 - https://leetcode.com/problems/3sum/
 - https://leetcode.com/problems/4sum/
 - https://leetcode.com/problems/sudoku-solver/
 
-## Day 99  : February 28, 2021
 ## Day 100  : February 29, 2021
