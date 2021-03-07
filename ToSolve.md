@@ -14,3 +14,6 @@
 - https://leetcode.com/problems/edit-distance/
 - To Implement Merge Sort
 - Implement URL Shortner
+- https://leetcode.com/problems/sudoku-solver/
+- https://leetcode.com/problems/3sum/
+- https://leetcode.com/problems/4sum/
